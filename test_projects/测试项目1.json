@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "name": "测试项目1",
+    "created_at": "2026-02-15T19:50:54.023962",
+    "modified_at": "2026-02-15T19:50:54.025488"
+  },
+  "mvr_file": "mvr_data/test.mvr",
+  "fixtures": [
+    {
+      "uuid": "test-uuid-0",
+      "name": "DMXEntityFixtureType_00",
+      "fixture_id": "",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 1,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_DMXEntityFixtureType@12_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "test-uuid-1",
+      "name": "DMXEntityFixtureType_01",
+      "fixture_id": "",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 11,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_DMXEntityFixtureType@12_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "test-uuid-2",
+      "name": "DMXEntityFixtureType_02",
+      "fixture_id": "",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 21,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_DMXEntityFixtureType@12_02_26",
+      "gdtf_mode": "Mode"
+    }
+  ],
+  "groups": []
+}

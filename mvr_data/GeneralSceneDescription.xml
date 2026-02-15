@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeneralSceneDescription verMajor="1" verMinor="5">
+	<UserData>
+		<Data provider="UnrealEngine" ver="5.6.0">
+			<CreationDate>2026.02.12-11.03.32</CreationDate>
+		</Data>
+	</UserData>
+	<Scene>
+		<Layers>
+			<Layer uuid="1F08BDAC-4AA7-340B-6657-C5A53CC43B46">
+				<ChildList>
+					<Fixture name="RotaHead_Mid" uuid="0E2154D3-42A0-A1B1-C657-CDB3F69D113D">
+						<Matrix>{0.773411,0.633905,0.000000}{0.633905,-0.773411,0.000000}{0.000000,-0.000000,-1.000000}{-685.461878,-7872.407083,4701.681027}</Matrix>
+						<GDTFSpec>EpicGames@UE5_6_Generated_RotaHead@12_02_26</GDTFSpec>
+						<GDTFMode>Mode</GDTFMode>
+						<FixtureID>1</FixtureID>
+						<UnitNumber>0</UnitNumber>
+						<Addresses>
+							<Address break="0">1</Address>
+						</Addresses>
+					</Fixture>
+					<Fixture name="RotaHead_L" uuid="EE19C7A0-40A0-B0DB-B35B-13B1003F5921">
+						<Matrix>{0.913950,0.405828,0.000000}{0.405828,-0.913950,0.000000}{0.000000,-0.000000,-1.000000}{-854.979010,-8367.747377,4127.100128}</Matrix>
+						<GDTFSpec>EpicGames@UE5_6_Generated_RotaHead@12_02_26</GDTFSpec>
+						<GDTFMode>Mode</GDTFMode>
+						<FixtureID>2</FixtureID>
+						<UnitNumber>0</UnitNumber>
+						<Addresses>
+							<Address break="0">9</Address>
+						</Addresses>
+					</Fixture>
+					<Fixture name="RotaHead_R" uuid="42D691FB-4D7A-4F3B-C849-90AC4ADDEEA4">
+						<Matrix>{-0.868818,0.495132,-0.000000}{0.495132,0.868818,0.000000}{0.000000,0.000000,-1.000000}{-868.295509,8283.521995,4130.454326}</Matrix>
+						<GDTFSpec>EpicGames@UE5_6_Generated_RotaHead@12_02_26</GDTFSpec>
+						<GDTFMode>Mode</GDTFMode>
+						<FixtureID>3</FixtureID>
+						<UnitNumber>0</UnitNumber>
+						<Addresses>
+							<Address break="0">17</Address>
+						</Addresses>
+					</Fixture>
+					<Fixture name="DMXEntityFixtureType" uuid="3C173E06-4D90-092C-4B64-63A04AAC27AE">
+						<Matrix>{-1.000000,0.000000,0.000000}{0.000000,1.000000,0.000000}{-0.000000,0.000000,-1.000000}{0.000000,0.000000,0.000000}</Matrix>
+						<GDTFSpec>EpicGames@UE5_6_Generated_DMXEntityFixtureType@12_02_26</GDTFSpec>
+						<GDTFMode>Mode</GDTFMode>
+						<FixtureID>4</FixtureID>
+						<UnitNumber>0</UnitNumber>
+						<Addresses>
+							<Address break="0">33</Address>
+						</Addresses>
+					</Fixture>
+				</ChildList>
+			</Layer>
+		</Layers>
+	</Scene>
+</GeneralSceneDescription>

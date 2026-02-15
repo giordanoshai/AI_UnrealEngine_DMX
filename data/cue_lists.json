@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "cue_list_name": "fsafaf",
+      "project_id": "943eb18a-31da-429e-9846-e974c0429d87",
+      "cues": [
+        {
+          "effect_id": "88f83e1c-8f83-4390-803c-1f9e932a8043",
+          "transition": "FADE",
+          "fade_time": 1.0
+        },
+        {
+          "effect_id": "9d25458c-2cda-423c-8f98-d592b4e4033a",
+          "transition": "CUT",
+          "fade_time": 1.0
+        }
+      ],
+      "loop": true,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T14:42:28.855971Z",
+      "id": "ccc929cf-e7f5-42dc-9e50-30c37c54a9a6",
+      "created_at": "2026-02-15T14:37:46.974872Z",
+      "sync_status": "pending",
+      "synced_at": null
+    }
+  ]
+}

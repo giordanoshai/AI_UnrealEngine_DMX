@@ -1,0 +1,370 @@
+{
+  "project_info": {
+    "uuid": "943eb18a-31da-429e-9846-e974c0429d87",
+    "name": "TEST1",
+    "created_at": "2026-02-12T15:37:48.399466",
+    "modified_at": "2026-02-15T22:55:19.387168"
+  },
+  "mvr_file": "",
+  "fixtures": [
+    {
+      "uuid": "8DCD62C0-4CEC-BDED-044A-B99B134B8132",
+      "name": "RotaHead",
+      "fixture_id": "4",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 1,
+      "position": [
+        -2677.865383,
+        -11.621108,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "F26A623D-428D-4DB5-A525-FF921A3AFD87",
+      "name": "RotaHead_001",
+      "fixture_id": "5",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 9,
+      "position": [
+        -2540.344462,
+        1933.418122,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "2272D12F-4058-DC81-DD63-EB83A9AAE624",
+      "name": "RotaHead_002",
+      "fixture_id": "6",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 17,
+      "position": [
+        -2291.606661,
+        3867.511203,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "EBE4238A-43ED-44DD-A748-03ABB671C8CC",
+      "name": "RotaHead_003",
+      "fixture_id": "7",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 25,
+      "position": [
+        -1841.12887,
+        5919.384466,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "B62CE46C-4461-99A3-C94E-08A80C520647",
+      "name": "RotaHead_004",
+      "fixture_id": "8",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 33,
+      "position": [
+        -1263.037698,
+        7669.25096,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "CCED4C9C-44A1-3604-6D52-708F1FB0B548",
+      "name": "RotaHead_005",
+      "fixture_id": "9",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 41,
+      "position": [
+        -2542.120767,
+        -2173.747034,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "F3C59FAE-490F-F131-AAEF-1587A03A5270",
+      "name": "RotaHead_006",
+      "fixture_id": "10",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 49,
+      "position": [
+        -1736.937517,
+        -6242.137684,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "05044471-49CC-9512-2A86-38A554C482B9",
+      "name": "RotaHead_007",
+      "fixture_id": "11",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 57,
+      "position": [
+        -1185.461878,
+        -7872.407083,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "E9642FBB-4D4E-E8E8-1FA9-5AAF09B2FD4F",
+      "name": "RotaHead_008",
+      "fixture_id": "12",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 65,
+      "position": [
+        -2187.899932,
+        -4333.308052,
+        4701.681027
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "70051875-413E-7C21-B950-6B8291AD925A",
+      "name": "RotaHead_009",
+      "fixture_id": "13",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 81,
+      "position": [
+        -854.97901,
+        -8367.747377,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "C58C82B8-46C5-68CD-D5C6-FCADB16B05E6",
+      "name": "RotaHead_010",
+      "fixture_id": "14",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 89,
+      "position": [
+        -420.068132,
+        -9449.819503,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "81AA2543-4316-7844-42DB-06ABFCCA4873",
+      "name": "RotaHead_011",
+      "fixture_id": "15",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 97,
+      "position": [
+        131.226225,
+        -10512.016303,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "1FF3F563-4A68-668A-9D43-E6818914F806",
+      "name": "RotaHead_012",
+      "fixture_id": "16",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 105,
+      "position": [
+        762.959438,
+        -11457.527895,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "A070044A-4F9E-6317-A369-4E9B0A461BBF",
+      "name": "RotaHead_013",
+      "fixture_id": "17",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 113,
+      "position": [
+        1531.712055,
+        -12347.781146,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "52EE3470-4957-0DEC-9616-EA92CB8C0961",
+      "name": "RotaHead_014",
+      "fixture_id": "18",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 121,
+      "position": [
+        2224.078134,
+        -13013.35678,
+        4127.100128
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "E2AEC412-4AC0-2CB7-5780-078ACEFAD3D0",
+      "name": "RotaHead_015",
+      "fixture_id": "19",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 129,
+      "position": [
+        -868.295509,
+        8283.521995,
+        4130.454326
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "F44F9955-48F1-0519-AC3F-01861CF38A6C",
+      "name": "RotaHead_016",
+      "fixture_id": "20",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 137,
+      "position": [
+        -394.521709,
+        9274.301021,
+        4130.454322
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "F60505D9-4A7B-5E85-FCD3-8CA127C4B617",
+      "name": "RotaHead_017",
+      "fixture_id": "21",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 145,
+      "position": [
+        184.573499,
+        10298.029014,
+        4130.454322
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "D1515525-4D15-1750-88FF-0CAE4FEEAE00",
+      "name": "RotaHead_018",
+      "fixture_id": "22",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 153,
+      "position": [
+        875.589231,
+        11195.124935,
+        4130.454322
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "E3BADF08-45C8-9866-E3DD-EA8CF9B8BDF6",
+      "name": "RotaHead_019",
+      "fixture_id": "23",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 161,
+      "position": [
+        1647.940653,
+        11991.929498,
+        4130.454322
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    },
+    {
+      "uuid": "DAEA278F-4358-39DE-885B-A1AA07E28892",
+      "name": "RotaHead_020",
+      "fixture_id": "24",
+      "unit_number": 0,
+      "universe": 0,
+      "address": 169,
+      "position": [
+        2570.540371,
+        12700.339215,
+        4130.454322
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_RotaHead@13_02_26",
+      "gdtf_mode": "Mode"
+    }
+  ],
+  "groups": [
+    {
+      "group_id": "148ae284-d975-4929-8454-ea65d7d86f8b",
+      "group_name": "MV_Left",
+      "fixture_ids": [
+        "70051875-413E-7C21-B950-6B8291AD925A",
+        "C58C82B8-46C5-68CD-D5C6-FCADB16B05E6",
+        "81AA2543-4316-7844-42DB-06ABFCCA4873",
+        "1FF3F563-4A68-668A-9D43-E6818914F806",
+        "A070044A-4F9E-6317-A369-4E9B0A461BBF",
+        "52EE3470-4957-0DEC-9616-EA92CB8C0961"
+      ],
+      "color": "#53a8f9"
+    },
+    {
+      "group_id": "fdbd47b5-64bf-40ce-9399-57cfefa40efc",
+      "group_name": "MH_Mid",
+      "fixture_ids": [
+        "8DCD62C0-4CEC-BDED-044A-B99B134B8132",
+        "F26A623D-428D-4DB5-A525-FF921A3AFD87",
+        "2272D12F-4058-DC81-DD63-EB83A9AAE624",
+        "EBE4238A-43ED-44DD-A748-03ABB671C8CC",
+        "B62CE46C-4461-99A3-C94E-08A80C520647",
+        "CCED4C9C-44A1-3604-6D52-708F1FB0B548",
+        "F3C59FAE-490F-F131-AAEF-1587A03A5270",
+        "05044471-49CC-9512-2A86-38A554C482B9",
+        "E9642FBB-4D4E-E8E8-1FA9-5AAF09B2FD4F"
+      ],
+      "color": "#53a8f9"
+    },
+    {
+      "group_id": "f95859e9-6c1a-425e-9158-af96c719a374",
+      "group_name": "MH_Right",
+      "fixture_ids": [
+        "E2AEC412-4AC0-2CB7-5780-078ACEFAD3D0",
+        "F44F9955-48F1-0519-AC3F-01861CF38A6C",
+        "F60505D9-4A7B-5E85-FCD3-8CA127C4B617",
+        "D1515525-4D15-1750-88FF-0CAE4FEEAE00",
+        "E3BADF08-45C8-9866-E3DD-EA8CF9B8BDF6",
+        "DAEA278F-4358-39DE-885B-A1AA07E28892"
+      ],
+      "color": "#53a8f9"
+    }
+  ]
+}

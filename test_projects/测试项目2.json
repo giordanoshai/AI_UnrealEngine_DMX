@@ -1,0 +1,26 @@
+{
+  "project_info": {
+    "name": "测试项目2",
+    "created_at": "2026-02-15T19:50:54.034642",
+    "modified_at": "2026-02-15T19:50:54.034642"
+  },
+  "mvr_file": "mvr_data/test2.mvr",
+  "fixtures": [
+    {
+      "uuid": "test-uuid-project2",
+      "name": "DMXEntityFixtureType_Project2",
+      "fixture_id": "",
+      "unit_number": 0,
+      "universe": 1,
+      "address": 100,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "gdtf_spec": "EpicGames@UE5_6_Generated_DMXEntityFixtureType@12_02_26",
+      "gdtf_mode": "Mode"
+    }
+  ],
+  "groups": []
+}

@@ -1,0 +1,326 @@
+[
+	{
+		"Name": "NewRow",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 0,
+		"RangeMax (8bit)": 3,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_White.T_Gobo_White'"
+	},
+	{
+		"Name": "NewRow_0",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 4,
+		"RangeMax (8bit)": 7,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_01.T_Gobo_01'"
+	},
+	{
+		"Name": "NewRow_1",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 8,
+		"RangeMax (8bit)": 11,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_02.T_Gobo_02'"
+	},
+	{
+		"Name": "NewRow_2",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 12,
+		"RangeMax (8bit)": 15,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_03.T_Gobo_03'"
+	},
+	{
+		"Name": "NewRow_3",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 16,
+		"RangeMax (8bit)": 19,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_04.T_Gobo_04'"
+	},
+	{
+		"Name": "NewRow_4",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 20,
+		"RangeMax (8bit)": 23,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_05.T_Gobo_05'"
+	},
+	{
+		"Name": "NewRow_5",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 24,
+		"RangeMax (8bit)": 27,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_06.T_Gobo_06'"
+	},
+	{
+		"Name": "NewRow_6",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 28,
+		"RangeMax (8bit)": 31,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_07.T_Gobo_07'"
+	},
+	{
+		"Name": "NewRow_7",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 32,
+		"RangeMax (8bit)": 35,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_08.T_Gobo_08'"
+	},
+	{
+		"Name": "NewRow_8",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 36,
+		"RangeMax (8bit)": 39,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_09.T_Gobo_09'"
+	},
+	{
+		"Name": "NewRow_9",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 40,
+		"RangeMax (8bit)": 43,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_10.T_Gobo_10'"
+	},
+	{
+		"Name": "NewRow_10",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 44,
+		"RangeMax (8bit)": 47,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_11.T_Gobo_11'"
+	},
+	{
+		"Name": "NewRow_11",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 48,
+		"RangeMax (8bit)": 51,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_12.T_Gobo_12'"
+	},
+	{
+		"Name": "NewRow_12",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 52,
+		"RangeMax (8bit)": 55,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_13.T_Gobo_13'"
+	},
+	{
+		"Name": "NewRow_13",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 56,
+		"RangeMax (8bit)": 59,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_14.T_Gobo_14'"
+	},
+	{
+		"Name": "NewRow_14",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 60,
+		"RangeMax (8bit)": 63,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_15.T_Gobo_15'"
+	},
+	{
+		"Name": "NewRow_15",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 64,
+		"RangeMax (8bit)": 67,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_16.T_Gobo_16'"
+	},
+	{
+		"Name": "NewRow_16",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 68,
+		"RangeMax (8bit)": 71,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_17.T_Gobo_17'"
+	},
+	{
+		"Name": "NewRow_17",
+		"Effect": "RotationCCW",
+		"RangeMin (8bit)": 72,
+		"RangeMax (8bit)": 113,
+		"EffectMin": 2,
+		"EffectMax": 0.1,
+		"TextureAsset": "None"
+	},
+	{
+		"Name": "NewRow_18",
+		"Effect": "Stop",
+		"RangeMin (8bit)": 114,
+		"RangeMax (8bit)": 117,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "None"
+	},
+	{
+		"Name": "NewRow_19",
+		"Effect": "RotationCW",
+		"RangeMin (8bit)": 118,
+		"RangeMax (8bit)": 159,
+		"EffectMin": 0.1,
+		"EffectMax": 2,
+		"TextureAsset": "None"
+	},
+	{
+		"Name": "NewRow_20",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 160,
+		"RangeMax (8bit)": 166,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_02.T_Gobo_02'"
+	},
+	{
+		"Name": "NewRow_21",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 167,
+		"RangeMax (8bit)": 172,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_03.T_Gobo_03'"
+	},
+	{
+		"Name": "NewRow_22",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 173,
+		"RangeMax (8bit)": 179,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_04.T_Gobo_04'"
+	},
+	{
+		"Name": "NewRow_23",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 180,
+		"RangeMax (8bit)": 185,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_05.T_Gobo_05'"
+	},
+	{
+		"Name": "NewRow_24",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 186,
+		"RangeMax (8bit)": 191,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_06.T_Gobo_06'"
+	},
+	{
+		"Name": "NewRow_25",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 192,
+		"RangeMax (8bit)": 198,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_07.T_Gobo_07'"
+	},
+	{
+		"Name": "NewRow_26",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 199,
+		"RangeMax (8bit)": 204,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_08.T_Gobo_08'"
+	},
+	{
+		"Name": "NewRow_27",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 205,
+		"RangeMax (8bit)": 211,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_09.T_Gobo_09'"
+	},
+	{
+		"Name": "NewRow_28",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 212,
+		"RangeMax (8bit)": 217,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_10.T_Gobo_10'"
+	},
+	{
+		"Name": "NewRow_29",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 218,
+		"RangeMax (8bit)": 223,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_11.T_Gobo_11'"
+	},
+	{
+		"Name": "NewRow_30",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 224,
+		"RangeMax (8bit)": 230,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_12.T_Gobo_12'"
+	},
+	{
+		"Name": "NewRow_31",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 231,
+		"RangeMax (8bit)": 236,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_13.T_Gobo_13'"
+	},
+	{
+		"Name": "NewRow_32",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 237,
+		"RangeMax (8bit)": 243,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_14.T_Gobo_14'"
+	},
+	{
+		"Name": "NewRow_33",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 244,
+		"RangeMax (8bit)": 249,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_15.T_Gobo_15'"
+	},
+	{
+		"Name": "NewRow_34",
+		"Effect": "Macro",
+		"RangeMin (8bit)": 250,
+		"RangeMax (8bit)": 255,
+		"EffectMin": 0.4,
+		"EffectMax": 10,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/GoboWheel/T_Gobo_16.T_Gobo_16'"
+	}
+]

@@ -1,0 +1,281 @@
+[
+	{
+		"Name": "NewRow",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 0,
+		"RangeMax (8bit)": 4,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_White.T_Color_White'"
+	},
+	{
+		"Name": "NewRow_0",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 5,
+		"RangeMax (8bit)": 8,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Red.T_Color_Red'"
+	},
+	{
+		"Name": "NewRow_1",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 9,
+		"RangeMax (8bit)": 12,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Red.T_Color_Red'"
+	},
+	{
+		"Name": "NewRow_2",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 13,
+		"RangeMax (8bit)": 17,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Orange.T_Color_Orange'"
+	},
+	{
+		"Name": "NewRow_3",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 18,
+		"RangeMax (8bit)": 21,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Orange.T_Color_Orange'"
+	},
+	{
+		"Name": "NewRow_4",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 22,
+		"RangeMax (8bit)": 25,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Aquamarine.T_Color_Aquamarine'"
+	},
+	{
+		"Name": "NewRow_5",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 26,
+		"RangeMax (8bit)": 29,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Aquamarine.T_Color_Aquamarine'"
+	},
+	{
+		"Name": "NewRow_6",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 30,
+		"RangeMax (8bit)": 34,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Green.T_Color_Green'"
+	},
+	{
+		"Name": "NewRow_7",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 35,
+		"RangeMax (8bit)": 38,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Green.T_Color_Green'"
+	},
+	{
+		"Name": "NewRow_8",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 39,
+		"RangeMax (8bit)": 42,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_LightGreen.T_Color_LightGreen'"
+	},
+	{
+		"Name": "NewRow_9",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 43,
+		"RangeMax (8bit)": 46,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_LightGreen.T_Color_LightGreen'"
+	},
+	{
+		"Name": "NewRow_10",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 47,
+		"RangeMax (8bit)": 51,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Lavender.T_Color_Lavender'"
+	},
+	{
+		"Name": "NewRow_11",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 52,
+		"RangeMax (8bit)": 55,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Lavender.T_Color_Lavender'"
+	},
+	{
+		"Name": "NewRow_12",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 56,
+		"RangeMax (8bit)": 59,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Pink.T_Color_Pink'"
+	},
+	{
+		"Name": "NewRow_13",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 60,
+		"RangeMax (8bit)": 63,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Pink.T_Color_Pink'"
+	},
+	{
+		"Name": "NewRow_14",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 64,
+		"RangeMax (8bit)": 68,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Yellow.T_Color_Yellow'"
+	},
+	{
+		"Name": "NewRow_15",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 69,
+		"RangeMax (8bit)": 72,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Yellow.T_Color_Yellow'"
+	},
+	{
+		"Name": "NewRow_16",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 73,
+		"RangeMax (8bit)": 76,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Magenta.T_Color_Magenta'"
+	},
+	{
+		"Name": "NewRow_17",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 77,
+		"RangeMax (8bit)": 81,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Magenta.T_Color_Magenta'"
+	},
+	{
+		"Name": "NewRow_18",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 82,
+		"RangeMax (8bit)": 85,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Cyan.T_Color_Cyan'"
+	},
+	{
+		"Name": "NewRow_19",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 86,
+		"RangeMax (8bit)": 89,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Cyan.T_Color_Cyan'"
+	},
+	{
+		"Name": "NewRow_20",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 90,
+		"RangeMax (8bit)": 93,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTO260.T_Color_CTO260'"
+	},
+	{
+		"Name": "NewRow_21",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 94,
+		"RangeMax (8bit)": 98,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTO260.T_Color_CTO260'"
+	},
+	{
+		"Name": "NewRow_22",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 99,
+		"RangeMax (8bit)": 102,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTO190.T_Color_CTO190'"
+	},
+	{
+		"Name": "NewRow_23",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 103,
+		"RangeMax (8bit)": 106,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTO190.T_Color_CTO190'"
+	},
+	{
+		"Name": "NewRow_24",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 107,
+		"RangeMax (8bit)": 110,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTB8000.T_Color_CTB8000'"
+	},
+	{
+		"Name": "NewRow_25",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 111,
+		"RangeMax (8bit)": 115,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_CTB8000.T_Color_CTB8000'"
+	},
+	{
+		"Name": "NewRow_26",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 116,
+		"RangeMax (8bit)": 119,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Blue.T_Color_Blue'"
+	},
+	{
+		"Name": "NewRow_27",
+		"Effect": "Swap",
+		"RangeMin (8bit)": 120,
+		"RangeMax (8bit)": 123,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_Blue.T_Color_Blue'"
+	},
+	{
+		"Name": "NewRow_28",
+		"Effect": "MixWithPrevious",
+		"RangeMin (8bit)": 124,
+		"RangeMax (8bit)": 127,
+		"EffectMin": 1,
+		"EffectMax": 1,
+		"TextureAsset": "/Script/Engine.Texture2D'/DMXFixtures/LightFixtures/ColorWheel/T_Color_White.T_Color_White'"
+	},
+	{
+		"Name": "NewRow_29",
+		"Effect": "RotationCW",
+		"RangeMin (8bit)": 128,
+		"RangeMax (8bit)": 255,
+		"EffectMin": 0.2,
+		"EffectMax": 160,
+		"TextureAsset": "None"
+	}
+]

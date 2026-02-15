@@ -1,0 +1,439 @@
+{
+  "items": [
+    {
+      "effect_name": "blue_slow_wave",
+      "description": "蓝色灯光,Pan 慢速正弦扫动,亮度 80%",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "wave",
+          "params": {
+            "speed": 0.25,
+            "min": 0.2,
+            "max": 0.8,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "blue"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "static",
+          "params": {
+            "value": 0.8
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        }
+      ],
+      "duration": 10.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.882902Z",
+      "id": "9baae91c-ff97-483d-b2c1-1fa19bd39ef3",
+      "created_at": "2026-02-15T13:54:17.882902Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "red_pulse",
+      "description": "红色灯光,亮度脉冲",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "red"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "wave",
+          "params": {
+            "speed": 1.0,
+            "min": 0.0,
+            "max": 1.0,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        }
+      ],
+      "duration": 8.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.889544Z",
+      "id": "b9fba791-901e-4697-a27e-a1f504c22b8f",
+      "created_at": "2026-02-15T13:54:17.889544Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "green_scan",
+      "description": "绿色灯光,Pan/Tilt 双向扫动",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "wave",
+          "params": {
+            "speed": 0.4,
+            "min": 0.0,
+            "max": 0.3,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "green"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        }
+      ],
+      "duration": 12.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.894810Z",
+      "id": "d74bb720-b60c-4f9f-9818-351e6ff048a6",
+      "created_at": "2026-02-15T13:54:17.894810Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "white_static",
+      "description": "白光,100% 亮度,居中静态",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "white"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        }
+      ],
+      "duration": 5.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.899473Z",
+      "id": "f153899a-6266-468a-ab47-dd430021c88b",
+      "created_at": "2026-02-15T13:54:17.899473Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "circle_zoom_gobo",
+      "description": "Pan/Tilt 相位差 0.25 模拟画圈,Zoom 缓慢呼吸,Gobo 每 4 秒切换",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "wave",
+          "params": {
+            "speed": 0.2,
+            "min": 0.3,
+            "max": 0.7
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "wave",
+          "params": {
+            "speed": 0.2,
+            "min": 0.3,
+            "max": 0.7,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "magenta"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "step",
+          "params": {
+            "values": [
+              "star",
+              "dots",
+              "spiral"
+            ],
+            "hold_time": 4.0
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "zoom",
+          "animation": "wave",
+          "params": {
+            "speed": 0.15,
+            "min": 0.2,
+            "max": 0.8
+          }
+        }
+      ],
+      "duration": 15.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.906105Z",
+      "id": "9d25458c-2cda-423c-8f98-d592b4e4033a",
+      "created_at": "2026-02-15T13:54:17.906105Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "rhythm_flash_snap",
+      "description": "Dimmer 脉冲闪烁 + Pan 在两个位置间快速跳动",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "pulse",
+          "params": {
+            "speed": 2.0,
+            "min": 0.2,
+            "max": 0.8,
+            "duty_cycle": 0.5,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "static",
+          "params": {
+            "value": 0.1
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "white"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "pulse",
+          "params": {
+            "speed": 1.0,
+            "min": 0.0,
+            "max": 1.0,
+            "duty_cycle": 0.3,
+            "phase": "auto"
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "zoom",
+          "animation": "static",
+          "params": {
+            "value": 0.9
+          }
+        }
+      ],
+      "duration": 6.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.911047Z",
+      "id": "88f83e1c-8f83-4390-803c-1f9e932a8043",
+      "created_at": "2026-02-15T13:54:17.911047Z",
+      "sync_status": "pending",
+      "synced_at": null
+    },
+    {
+      "effect_name": "blackout",
+      "description": "关闭所有通道",
+      "primitives": [
+        {
+          "channel": "pan",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "tilt",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        },
+        {
+          "channel": "color_wheel",
+          "animation": "static",
+          "params": {
+            "value": "white"
+          }
+        },
+        {
+          "channel": "gobo_wheel",
+          "animation": "static",
+          "params": {
+            "value": "open"
+          }
+        },
+        {
+          "channel": "dimmer",
+          "animation": "static",
+          "params": {
+            "value": 0.0
+          }
+        },
+        {
+          "channel": "shutter",
+          "animation": "static",
+          "params": {
+            "value": 1.0
+          }
+        },
+        {
+          "channel": "zoom",
+          "animation": "static",
+          "params": {
+            "value": 0.5
+          }
+        }
+      ],
+      "duration": 3.0,
+      "user_id": "local-user",
+      "updated_at": "2026-02-15T13:54:17.915841Z",
+      "id": "b29b78dd-1282-4599-99e1-b18318df98a4",
+      "created_at": "2026-02-15T13:54:17.915841Z",
+      "sync_status": "pending",
+      "synced_at": null
+    }
+  ]
+}
